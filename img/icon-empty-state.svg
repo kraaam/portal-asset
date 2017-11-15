@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="93px" height="95px" viewBox="0 0 93 95" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-empty-state</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" opacity="0.8" stroke-linejoin="round">
+        <g id="icon-empty-state" stroke="#CBCBCB" stroke-width="7">
+            <g id="icon-empty-image">
+                <g id="Page-1">
+                    <polyline id="Stroke-1" points="93 77 93 95 0 95 0 80.8549422"></polyline>
+                    <polyline id="Stroke-3" points="0 67 0 0 93 0 93 60.6096704"></polyline>
+                    <path d="M0,68.3403935 L22.1989358,40.561719 C24.8342683,37.2626353 29.7366771,37.1298911 32.5446296,40.2806136 L49.7222406,59.5909895 C52.062201,62.2185437 55.9787576,62.6089678 58.7752021,60.4967734 L65.8641313,55.1323463 C68.7219518,52.973301 72.7229005,53.4144803 75.0666969,56.1357362 L93,77" id="Stroke-5"></path>
+                    <path d="M76,25.5 C76,31.2997481 71.3005936,36 65.5018888,36 C59.703184,36 55,31.2997481 55,25.5 C55,19.7002519 59.703184,15 65.5018888,15 C71.3005936,15 76,19.7002519 76,25.5 Z" id="Stroke-7"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

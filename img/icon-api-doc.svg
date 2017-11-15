@@ -1,0 +1,14 @@
+<svg width="28px" height="25px" viewBox="0 0 28 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>icon-api-doc</title>
+<g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="icon-api-doc" fill-rule="nonzero" fill="#0D3E8D">
+        <g id="Group">
+            <polygon id="Shape" points="0.663 20.295 16.464 20.295 16.464 24.025 0.663 24.025"></polygon>
+            <polygon id="Shape" opacity="0.4" points="21.965 20.295 27.338 20.295 27.338 24.025 21.965 24.025"></polygon>
+            <polygon id="Shape" opacity="0.7" points="0.663 10.24 6.94 10.24 6.94 13.971 0.663 13.971"></polygon>
+            <polygon id="Shape" opacity="0.5" points="0.663 0.186 13.2 0.186 13.2 3.915 0.663 3.915"></polygon>
+            <path d="M26.102,1.635 C26.521,1.635 26.921,1.876 27.156,2.315 C27.51,2.984 27.332,3.853 26.749,4.258 L22.33,7.366 L26.742,10.428 C27.326,10.828 27.512,11.707 27.16,12.375 C26.808,13.045 26.05,13.252 25.462,12.854 L19.317,8.586 C18.947,8.323 18.721,7.873 18.72,7.37 C18.7109283,6.8960574 18.9295791,6.44648466 19.308,6.161 L25.456,1.837 C25.645,1.713 25.869,1.635 26.102,1.635 L26.102,1.635 Z" id="Shape"></path>
+        </g>
+    </g>
+</g>
+</svg>
