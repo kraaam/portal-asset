@@ -1,0 +1,59 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+html, body{
+	background-image: url('../img/background.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+
+    height:100%; /* important to vertically align the container */
+    margin:0;
+    padding:0;
+}
+.vertical-center {
+  min-height: 100%;  /* Fallback for browsers do NOT support vh unit */
+  min-height: 100vh; /* These two lines are counted as one  */
+  display: flex;
+  align-items: center;
+}
+label{
+	font-family: "proxima_nova_altbold", sans-serif;
+	font-size: 11em;
+	color: #fff;
+	width: 100%;
+}
+span{
+	font-family: "Proxima Nova", sans-serif;
+	font-size: 1.5em;
+	color: #fff;
+	margin-top: 20px;
+}
+
+.globe-lab-btn-blank{
+	padding: 15px 60px;
+	border-radius: 30px;
+	width: 200px;
+	font-family: "Proxima Nova", sans-serif;
+	font-size: 1em; 
+	transition: all 0.3s ease-in-out;
+	-webkit-transition: all 0.3s ease-in-out;
+	-moz-transition: all 0.3s ease-in-out;
+	-ms-transition: all 0.3s ease-in-out;
+	-o-transition: all 0.3s ease-in-out;
+}
+.globe-lab-btn-blank:hover,
+.globe-lab-btn-blank:focus,
+.globe-lab-btn-blank:active{
+	text-decoration: none !important;
+	color: #fff !important;
+}
+.clearfix1{
+	height: 30px;
+	width: 100%;
+}
+.clearfix2{
+	height: 60px;
+	width: 100%;
+}
